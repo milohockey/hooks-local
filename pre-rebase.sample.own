@@ -1,0 +1,4 @@
+#!/bin/sh
+echo Rebasing is disabled in this repository!
+
+Exit 1
